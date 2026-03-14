@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Quantum Optics and Information
 
-Repository for "Template".
+Repository for "Quantum Optics and Information".
 
 
 ## Use instructions
